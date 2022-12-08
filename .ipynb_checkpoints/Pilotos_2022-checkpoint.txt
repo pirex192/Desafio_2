@@ -1,0 +1,31 @@
+63,Francesco Bagnaia,IT,Ducati Lenovo Team,Ducati
+20,Fabio Quartararo,FR,Monster Energy Yamaha MotoGP,Yamaha
+23,Enea Bastianini,IT,Gresini Racing MotoGP,Ducati
+41,Aleix Espargaro,ES,Aprilia Racing,Aprilia
+43,Jack Miller,AU,Ducati Lenovo Team,Ducati
+33,Brad Binder,ZA,Red Bull KTM Factory Racing,KTM
+42,Alex Rins,ES,Team SUZUKI ECSTAR,Suzuki
+5,Johann Zarco,FR,Prima Pramac Racing,Ducati
+89,Jorge Martin,ES,Prima Pramac Racing,Ducati
+88,Miguel Oliveira,PT,Red Bull KTM Factory Racing,KTM
+12,Maverick Viñales,ES,Aprilia Racing,Aprilia
+10,Luca Marini,IT,Mooney VR46 Racing Team,Ducati
+93,Marc Marquez,ES,Repsol Honda Team,Honda
+72,Marco Bezzecchi,IT,Mooney VR46 Racing Team,Ducati
+36,Joan Mir,ES,Team SUZUKI ECSTAR,Suzuki
+44,Pol Espargaro,ES,Repsol Honda Team,Honda
+73,Alex Marquez,ES,LCR Honda CASTROL,Honda
+30,Takaaki Nakagami,JP,LCR Honda IDEMITSU,Honda
+21,Franco Morbidelli,IT,Monster Energy Yamaha MotoGP,Yamaha
+49,Fabio Di Giannantonio,IT,Gresini Racing MotoGP,Ducati
+4,Andrea Dovizioso,IT,WithU Yamaha RNF MotoGP Team,Yamaha
+25,Raul Fernandez,ES,Tech3 KTM Factory Racing,KTM
+87,Remy Gardner,AU,Tech3 KTM Factory Racing,KTM
+40,Darryn Binder,ZA,WithU Yamaha RNF MotoGP Team,Yamaha
+35,Cal Crutchlow,GB,WithU Yamaha RNF MotoGP Team,Yamaha
+6,Stefan Bradl,DE,Repsol Honda Team,Honda
+51,Michele Pirro,IT,Aruba.it Racing,Ducati
+32,Lorenzo Savadori,IT,Aprilia Racing,Aprilia
+45,Tetsuta Nagashima,JP,LCR Honda IDEMITSU,Honda
+9,Danilo Petrucci,IT,Team SUZUKI ECSTAR,Suzuki
+92,Kazuki Watanabe,JP,Team SUZUKI ECSTAR,Suzuki

@@ -1,0 +1,3 @@
+63,Francesco Bagnaia,IT,Ducati Lenovo Team,Ducati
+20,Fabio Quartararo,FR,Monster Energy Yamaha MotoGP,Yamaha
+23,Enea Bastianini,IT,Gresini Racing MotoGP,Ducati
