@@ -1,0 +1,32 @@
+Piloto,Pontos
+Lorenzo Savadori,25
+Stefan Bradl,20
+Marco Bezzecchi,16
+Fabio Di Giannantonio,13
+Danilo Petrucci,11
+Luca Marini,10
+Aleix Espargaro,9
+Enea Bastianini,8
+Franco Morbidelli,7
+Michele Pirro,6
+Takaaki Nakagami,5
+Jorge Martin,4
+Brad Binder,3
+Alex Rins,2
+Raul Fernandez,1
+Joan Mir,0
+Cal Crutchlow,0
+Alex Marquez,0
+Miguel Oliveira,0
+Darryn Binder,0
+Johann Zarco,0
+Marc Marquez,0
+Andrea Dovizioso,0
+Remy Gardner,0
+Jack Miller,0
+Maverick Vinales,0
+Fabio Quartararo,0
+Kazuki Watanabe,0
+Francesco Bagnaia,0
+Pol Espargaro,0
+Tetsuta Nagashima,0

@@ -1,0 +1,15 @@
+Classificação,Equipa,Pontos
+1,Aprilia Racing,34
+2,Mooney VR46 Racing Team,26
+3,Gresini Racing MotoGP,21
+4,Repsol Honda Team,20
+5,Team SUZUKI ECSTAR,13
+6,Monster Energy Yamaha MotoGP,7
+7,Aruba.it Racing,6
+8,LCR Honda IDEMITSU,5
+9,Prima Pramac Racing,4
+10,Red Bull KTM Factory Racing,3
+11,Tech3 KTM Factory Racing,1
+12,Ducati Lenovo Team,0
+13,LCR Honda CASTROL,0
+14,WithU Yamaha RNF MotoGP Team,0

@@ -1,0 +1,32 @@
+Classificação,Piloto,Pontos
+1,Lorenzo Savador,25
+2,Stefan Brad,20
+3,Marco Bezzecch,16
+4,Fabio Di Giannantoni,13
+5,Danilo Petrucc,11
+6,Luca Marin,10
+7,Aleix Espargar,9
+8,Enea Bastianin,8
+9,Franco Morbidell,7
+10,Michele Pirr,6
+11,Takaaki Nakagam,5
+12,Jorge Marti,4
+13,Brad Binde,3
+14,Alex Rin,2
+15,Raul Fernande,1
+16,Remy Gardne,0
+17,Marc Marque,0
+18,Pol Espargar,0
+19,Miguel Oliveir,0
+20,Maverick Vinale,0
+21,Johann Zarc,0
+22,Kazuki Watanab,0
+23,Alex Marque,0
+24,Joan Mi,0
+25,Jack Mille,0
+26,Francesco Bagnai,0
+27,Fabio Quartarar,0
+28,Darryn Binde,0
+29,Cal Crutchlo,0
+30,Andrea Dovizios,0
+31,Tetsuta Nagashim,0

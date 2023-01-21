@@ -1,0 +1,32 @@
+Equipa,Pontos
+Aprilia Racing,25
+Repsol Honda Team,20
+Mooney VR46 Racing Team,16
+Gresini Racing MotoGP,13
+Team SUZUKI ECSTAR,11
+Mooney VR46 Racing Team,10
+Aprilia Racing,9
+Gresini Racing MotoGP,8
+Monster Energy Yamaha MotoGP,7
+Aruba.it Racing,6
+LCR Honda IDEMITSU,5
+Prima Pramac Racing,4
+Red Bull KTM Factory Racing,3
+Team SUZUKI ECSTAR,2
+Tech3 KTM Factory Racing,1
+Team SUZUKI ECSTAR,0
+WithU Yamaha RNF MotoGP Team,0
+LCR Honda CASTROL,0
+Red Bull KTM Factory Racing,0
+WithU Yamaha RNF MotoGP Team,0
+Prima Pramac Racing,0
+Repsol Honda Team,0
+WithU Yamaha RNF MotoGP Team,0
+Tech3 KTM Factory Racing,0
+Ducati Lenovo Team,0
+Aprilia Racing,0
+Monster Energy Yamaha MotoGP,0
+Team SUZUKI ECSTAR,0
+Ducati Lenovo Team,0
+Repsol Honda Team,0
+LCR Honda IDEMITSU,0

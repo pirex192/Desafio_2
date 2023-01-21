@@ -1,0 +1,21 @@
+Circuito,Pais,KM
+Circuit Ricardo Tormo,Espanha,4005
+Sepang International Circuit,Malasia,5543
+Phillip Island,Australia,4448
+Chang International Circuit,Tailandia,4554
+Mobility Resort Motegi,Japao,4801
+MotorLand Aragon,Espanha,5077
+Misano World Circuit Marco Simoncelli,San Marino,4226
+Red Bull Ring - Spielberg,Austria,4348
+Silverstone Circuit,Reino Unido,5900
+TT Circuit Assen,Holanda,4542
+Sachsenring,Alemanha,3671
+Circuit de Barcelona-Catalunya,Espanha,4657
+Autodromo Internazionale del Mugello,Italia,5245
+Le Mans,Franca,4185
+Circuito de Jerez - Angel Nieto,Espanha,4423
+Autodromo Internacional do Algarve,Portugal,4592
+Circuit Of The Americas,Estados Unidos da America,5513
+Termas de Rio Hondo,Argentina,4806
+Pertamina Mandalika Circuit,Indonesia,4301
+Lusail International Circuit,Qatar,5380
